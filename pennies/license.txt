@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pennies
+* source:	https://sketchfab.com/3d-models/pennies-8751481b15664d8f92f92b0df50f367d
+* author:	Cwat325 (https://sketchfab.com/Cwat325)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pennies" (https://sketchfab.com/3d-models/pennies-8751481b15664d8f92f92b0df50f367d) by Cwat325 (https://sketchfab.com/Cwat325) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dragon
+* source:	https://sketchfab.com/3d-models/dragon-1d68f3f3e650418f9bd785afa71dde2f
+* author:	Cwat325 (https://sketchfab.com/Cwat325)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dragon" (https://sketchfab.com/3d-models/dragon-1d68f3f3e650418f9bd785afa71dde2f) by Cwat325 (https://sketchfab.com/Cwat325) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
