@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chef
+* source:	https://sketchfab.com/3d-models/chef-36c8dd6b136b4349ae4632d605383d9d
+* author:	Cwat325 (https://sketchfab.com/Cwat325)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chef" (https://sketchfab.com/3d-models/chef-36c8dd6b136b4349ae4632d605383d9d) by Cwat325 (https://sketchfab.com/Cwat325) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
