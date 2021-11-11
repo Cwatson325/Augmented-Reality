@@ -1,0 +1,11 @@
+Model Information:
+* title:	Christmas trees
+* source:	https://sketchfab.com/3d-models/christmas-trees-3983a816995444bb9ebc14c3feae5975
+* author:	Cwat325 (https://sketchfab.com/Cwat325)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Christmas trees" (https://sketchfab.com/3d-models/christmas-trees-3983a816995444bb9ebc14c3feae5975) by Cwat325 (https://sketchfab.com/Cwat325) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
